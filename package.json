@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "AI-based B.Tech career roadmap platform — helps students pick career paths, generate year-wise roadmaps, and get resume feedback.",
   "scripts": {
+    "build": "node build.js",
     "start": "npx serve . -l 3000",
     "dev": "npx serve . -l 3000"
   },
